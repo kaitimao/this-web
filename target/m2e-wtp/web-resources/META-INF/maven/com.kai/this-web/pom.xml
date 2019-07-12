@@ -17,10 +17,8 @@
 		</dependency>
 		<dependency>
 			<groupId>com.oracle</groupId>
-			<artifactId>ojdbc</artifactId>
-			<version>8</version>
-			<scope>system</scope>
-			<systemPath>${project.basedir}/lib/ojdbc8.jar</systemPath>
+			<artifactId>ojdbc8</artifactId>
+			<version>12.2.0.1</version>
 		</dependency>
 		<!-- webapp-runner -->
 		<dependency>
